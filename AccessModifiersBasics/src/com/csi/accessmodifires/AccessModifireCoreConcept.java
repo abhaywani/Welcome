@@ -40,7 +40,7 @@ public class AccessModifireCoreConcept {
 		
 		Customer cc = new Customer();
 		cc.setCusId(101);// default Access Modifier
-		cc.setCustName("Jerry");
+		cc.setCustName("JEERY");
 		cc.custAddress="Pune";
 		System.out.println("\n Customer Id:"+cc.getCusId());
 		System.out.println("\n Customer Name:" + cc.getCustName());
